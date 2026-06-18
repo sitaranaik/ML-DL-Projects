@@ -10,5 +10,5 @@ Focus on understanding fundamental supervised learning algorithms for continuous
 
 ### Advanced Classification & Unsupervised Clustering
 Exploring non-linear classification models and unsupervised learning techniques on complex, multi-class data.
-* **Stellar Classification Dataset:** Leveraged **K-Nearest Neighbors (KNN)**, **Decision Trees**, and **K-Means Clustering** to classify stars, galaxies, and quasars based on their spectral characteristics.
+* **Stellar Classification Dataset:** Leveraged **K-Nearest Neighbors (KNN)**, **Decision Trees**, and **K-Means Clustering** to classify stars, galaxies, and quasars based on their spectral characteristics and comparing and analyzing the results obtained from these individual methods. 
 * **Folder:** `KMeans, KNN, Decision Trees/`
