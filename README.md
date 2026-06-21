@@ -12,3 +12,9 @@ Focus on understanding fundamental supervised learning algorithms for continuous
 Exploring non-linear classification models and unsupervised learning techniques on complex, multi-class data.
 * **Stellar Classification Dataset:** Leveraged **K-Nearest Neighbors (KNN)**, **Decision Trees**, and **K-Means Clustering** to classify stars, galaxies, and quasars based on their spectral characteristics and comparing and analyzing the results obtained from these individual methods. 
 * **Folder:** `KMeans, KNN, Decision Trees/`
+
+## Ensemble Learning & Model Comparison
+
+* Exploring ensemble learning techniques to improve predictive performance by combining multiple decision trees and boosting methods.
+* **Metro Interstate Traffic Volume Dataset:** Implemented **Random Forest**, **AdaBoost**, and **XGBoost** regression models to predict hourly traffic volume using weather and temporal features. Compared and analyzed the performance of all three models using evaluation metrics such as **Mean Absolute Error (MAE)** and **R² Score** to identify the most effective approach.
+* **Folder:** `Random Forests, AdaBoost, XGBoost/`
