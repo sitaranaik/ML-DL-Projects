@@ -2,13 +2,13 @@
 weekly projects, ipynb files and datasets for a ML/DL bootcamp
 
 
-### Regression & Basic Classification Foundations
+## Regression & Basic Classification Foundations
 Focus on understanding fundamental supervised learning algorithms for continuous and categorical predictions using benchmark datasets.
 * **Boston Housing Dataset:** Applied **Linear Regression** to predict housing prices based on features like crime rates, rooms per dwelling, and pupil-teacher ratios.
 * **Titanic Dataset:** Implemented **Logistic Regression** to build a binary classification model predicting passenger survival outcomes.
 * **Folder:** `linear and logistic regression/`
 
-### Advanced Classification & Unsupervised Clustering
+## Advanced Classification & Unsupervised Clustering
 Exploring non-linear classification models and unsupervised learning techniques on complex, multi-class data.
 * **Stellar Classification Dataset:** Leveraged **K-Nearest Neighbors (KNN)**, **Decision Trees**, and **K-Means Clustering** to classify stars, galaxies, and quasars based on their spectral characteristics and comparing and analyzing the results obtained from these individual methods. 
 * **Folder:** `KMeans, KNN, Decision Trees/`
@@ -18,7 +18,7 @@ Exploring non-linear classification models and unsupervised learning techniques 
 * **Metro Interstate Traffic Volume Dataset:** Implemented **Random Forest**, **AdaBoost**, and **XGBoost** regression models to predict hourly traffic volume using weather and temporal features. Compared and analyzed the performance of all three models using evaluation metrics such as **Mean Absolute Error (MAE)** and **R² Score** to identify the most effective approach.
 * **Folder:** `Random Forests, AdaBoost, XGBoost/`
 
-### Neural Networks from Scratch
+## Neural Networks from Scratch
 Building a Neural Network from scratch to understand the math and mechanics behind deep learning frameworks.
 * **MNIST Dataset:** Implemented a feedforward neural network using only NumPy. Covered matrix initialization, ReLU/Softmax activation functions, forward propagation, backpropagation, and gradient descent to classify handwritten digits.
 * **Folder:** `Basics of Neural Networks/`
