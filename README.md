@@ -17,3 +17,8 @@ Exploring non-linear classification models and unsupervised learning techniques 
 * Exploring ensemble learning techniques to improve predictive performance by combining multiple decision trees and boosting methods.
 * **Metro Interstate Traffic Volume Dataset:** Implemented **Random Forest**, **AdaBoost**, and **XGBoost** regression models to predict hourly traffic volume using weather and temporal features. Compared and analyzed the performance of all three models using evaluation metrics such as **Mean Absolute Error (MAE)** and **R² Score** to identify the most effective approach.
 * **Folder:** `Random Forests, AdaBoost, XGBoost/`
+
+### Neural Networks from Scratch
+Building a Neural Network from scratch to understand the math and mechanics behind deep learning frameworks.
+* **MNIST Dataset:** Implemented a feedforward neural network using only NumPy. Covered matrix initialization, ReLU/Softmax activation functions, forward propagation, backpropagation, and gradient descent to classify handwritten digits.
+* **Folder:** `Basics of Neural Networks/`
